@@ -1,0 +1,16 @@
+#box{
+    border: 5px solid green;
+    width: 250px;
+    margin-left: auto;
+    padding: 5px;
+    text-align: center;
+    color:blue;
+    background-color: aqua ;
+  }
+  
+  #image{
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+  }
